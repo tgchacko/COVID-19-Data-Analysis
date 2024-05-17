@@ -1,6 +1,6 @@
 # COVID-19-Data-Analysis with Python
 
-The objective of this project is to analyze the COVID-19 dataset to extract meaningful insights and build predictive models to forecast the number of confirmed cases. This analysis aims to help understand the spread of the virus and provide actionable insights for decision-makers.
+The objective of this project is to analyze the COVID-19 dataset to extract meaningful insight. This analysis aims to help understand the spread of the virus and provide actionable insights for decision-makers.
 
 ## Data Description
 The dataset `covid_19_clean_complete.csv` contains various columns including:
