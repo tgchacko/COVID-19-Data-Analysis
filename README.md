@@ -37,13 +37,3 @@ Below are the links for details and commands (if required) to install the necess
 ## Conclusion:
 
 The analysis provided a comprehensive understanding of the COVID-19 pandemic's progression and the effectiveness of various interventions.  
-
-
-## Usage
-Clone the repository and navigate to the project directory:
-
-```sh
-git clone <repository_url>
-cd <repository_directory>
-
-
