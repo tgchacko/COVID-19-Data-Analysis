@@ -22,27 +22,28 @@ Below are the links for details and commands (if required) to install the necess
 - **fbprophet**: Go to [Prophet Installation](https://pypi.org/project/fbprophet/) or use command: `pip install fbprophet`
 - **tbats**: Go to [TBATS Installation](https://pypi.org/project/tbats/) or use command: `pip install tbats`
 
+## EDA Steps:
+
+1) Data Cleaning: Handle missing values, correct data types, and remove duplicates.
+2) Descriptive Statistics: Generate summary statistics to understand the distribution and central tendencies of the data.
+3) Visualization: Create plots to visualize trends, distributions, and correlations in the data.
+
+## Findings:
+
+1) Trend Analysis: Observations on how the number of confirmed cases, deaths, and recoveries have evolved over time.
+2) Impact of Interventions: Analysis of how lockdowns and other interventions have affected the spread of the virus.
+3) Regional Differences: Insights into how the pandemic has impacted different regions differently.
+
+## Conclusion:
+
+The analysis provided a comprehensive understanding of the COVID-19 pandemic's progression and the effectiveness of various interventions.  
+
+
 ## Usage
 Clone the repository and navigate to the project directory:
 
 ```sh
 git clone <repository_url>
 cd <repository_directory>
-
-EDA Steps:
-
-1) Data Cleaning: Handle missing values, correct data types, and remove duplicates.
-2) Descriptive Statistics: Generate summary statistics to understand the distribution and central tendencies of the data.
-3) Visualization: Create plots to visualize trends, distributions, and correlations in the data.
-
-Findings:
-
-1) Trend Analysis: Observations on how the number of confirmed cases, deaths, and recoveries have evolved over time.
-2) Impact of Interventions: Analysis of how lockdowns and other interventions have affected the spread of the virus.
-3) Regional Differences: Insights into how the pandemic has impacted different regions differently.
-
-Conclusion:
-
-The analysis provided a comprehensive understanding of the COVID-19 pandemic's progression and the effectiveness of various interventions.  
 
 
