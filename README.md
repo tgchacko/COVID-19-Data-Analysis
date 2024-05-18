@@ -10,7 +10,7 @@
 - [Forecasting for Confirmed Cases](#forecasting-for-confirmed-cases)
 - [Results](#results)
 - [Recommendations](#recommendations)
-- [References]
+- [References](#references)
 
 
 ### Project Overview
