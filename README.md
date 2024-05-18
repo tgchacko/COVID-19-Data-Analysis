@@ -95,7 +95,7 @@ The analysis results are summarized as follows:
 
 ![Recovery](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/d276c3c2-3031-4de7-b114-a056e5fd46bf)
 
-### Forecast
+## Forecast for confirmed cases - Prophet
 
 ![Forecast](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/e7fd386b-5679-4b02-88f5-07515c7e4e37)
 
