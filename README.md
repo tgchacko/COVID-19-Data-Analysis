@@ -20,6 +20,7 @@ The objective of this project is to analyze the COVID-19 dataset to extract mean
 ### Data Sources
 
 COVID-19 Data: The primary dataset used for this analysis is the covid_19.csv file, containing detailed information about COVID-19 cases globally.
+[Covid 19 Dataset](https://github.com/tgchacko/COVID-19-Data-Analysis/blob/main/covid_19.csv)
 
 ### Data Description
 The dataset `covid_19.csv` contains various columns including:
