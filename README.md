@@ -3,7 +3,7 @@
 The objective of this project is to analyze the COVID-19 dataset to extract meaningful insight. This analysis aims to help understand the spread of the virus and provide actionable insights for decision-makers.
 
 ## Data Description
-The dataset `covid_19_clean_complete.csv` contains various columns including:
+The dataset `covid_19.csv` contains various columns including:
 - **Date**: The date of the observation.
 - **Country/Region**: The country or region of the observation.
 - **Confirmed**: The number of confirmed cases.
