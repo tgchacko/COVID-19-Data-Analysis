@@ -73,6 +73,30 @@ The analysis results are summarized as follows:
 1) The number of confirmed cases has shown a significant upward trend, with noticeable peaks during certain periods.
 2) The spread of the virus varies significantly by region, influenced by factors such as population density and government interventions.
 
+![Confirmed_Cases1](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/0b6d8c03-5717-479c-8ec6-336bdb2ca6b2)
+
+![Confirmed_Cases2](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/9bedea02-f877-49ca-b489-d7d0a02978c5)
+
+![Confirmed_Cases3](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/357d2206-c196-4db2-9571-4155303a5a44)
+
+![Confirmed_Cases4](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/b06822a2-f7f0-4ec7-a4ba-ea7eb2673b94)
+
+![Confirmed_Cases5](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/0ce5ebae-b618-4b68-8db7-f11f7b1e20d9)
+
+![Confirmed_Cases6](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/7bf5f4f3-44da-45b9-b403-4b30eb776ba3)
+
+![Confirmed_Cases7](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/afb8ff89-0ebe-4f3d-a307-24e2badfead9)
+
+![Confirmed_Cases8](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/c63b91ac-c20b-4f6d-883d-6ed73060b01b)
+
+![Confirmed_Cases9](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/c3f094a7-7613-4b97-b053-e4db952f7410)
+
+![Mortality](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/467e2ecd-c7dd-4126-a042-fabc08a558ed)
+
+![Recovery](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/d276c3c2-3031-4de7-b114-a056e5fd46bf)
+
+![Forecast](https://github.com/tgchacko/COVID-19-Data-Analysis/assets/169921893/e7fd386b-5679-4b02-88f5-07515c7e4e37)
+
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
