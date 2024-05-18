@@ -1,8 +1,27 @@
 # COVID-19-Data-Analysis with Python
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Data Description](#data-description)
+- [Tools](#tools)
+- [EDA Steps](#eda-steps)
+- [Forecasting for Confirmed Cases](#forecasting-for-confirmed-cases)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [References]
+
+
+### Project Overview
+
 The objective of this project is to analyze the COVID-19 dataset to extract meaningful insight. This analysis aims to help understand the spread of the virus and provide actionable insights for decision-makers.
 
-## Data Description
+### Data Sources
+
+COVID-19 Data: The primary dataset used for this analysis is the covid_19.csv file, containing detailed information about COVID-19 cases globally.
+
+### Data Description
 The dataset `covid_19.csv` contains various columns including:
 - **Date**: The date of the observation.
 - **Country/Region**: The country or region of the observation.
@@ -10,7 +29,7 @@ The dataset `covid_19.csv` contains various columns including:
 - **Deaths**: The number of deaths.
 - **Recovered**: The number of recoveries.
 
-## Installation Instructions
+#### Installation Instructions
 Below are the links for details and commands (if required) to install the necessary Python packages:
 - **pandas**: Go to [Pandas Installation](https://pypi.org/project/pandas/) or use command: `pip install pandas`
 - **numpy**: Go to [NumPy Installation](https://pypi.org/project/numpy/) or use command: `pip install numpy`
